@@ -1,0 +1,12 @@
+version: '2'
+services:
+  mongo:
+   image: mongo
+   ports:
+     - "27017:27017"
+
+  provider:
+    image: sbgfeedme/provider:latest
+    ports:
+      - "8181:8181"
+      - "8282:8282"

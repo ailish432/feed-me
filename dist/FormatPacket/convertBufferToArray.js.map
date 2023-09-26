@@ -1,0 +1,1 @@
+{"version":3,"file":"convertBufferToArray.js","sourceRoot":"","sources":["../../FormatPacket/convertBufferToArray.ts"],"names":[],"mappings":";;;AAAO,MAAM,oBAAoB,GAAG,CAAC,OAAe,EAAY,EAAE;IAC9D,MAAM,YAAY,GAAG,OAAO,CAAC,QAAQ,EAAE,CAAC;IACxC,OAAO,YAAY,CAAC,KAAK,CAAC,IAAI,CAAC,CAAC;AACpC,CAAC,CAAA;AAHY,QAAA,oBAAoB,wBAGhC"}
